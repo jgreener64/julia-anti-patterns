@@ -3,8 +3,8 @@ description: >-
   Learning what to do in Julia by learning what not to do in Julia. A collection
   of common pitfalls to avoid when using the Julia language, along with
   suggested solutions.
-baseurl: "/julia-anti-patterns"
-url: "https://jgreener64.github.io"
+baseurl: ""
+url: "https://jgreener64.github.io/julia-anti-patterns"
 markdown: kramdown
 theme: minima
 plugins:
