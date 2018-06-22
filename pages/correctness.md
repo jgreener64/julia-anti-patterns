@@ -3,8 +3,6 @@ layout: page
 title: Correctness
 ---
 
-Things about correctness.
-
 ## Thing 1
 
 Text
