@@ -1,3 +1,3 @@
-# Python Anti-Patterns
+# Julia Anti-Patterns
 
 Stay tuned.
