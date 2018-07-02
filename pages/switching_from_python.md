@@ -5,7 +5,7 @@ title: Switching from Python
 
 ## Overuse of `try/catch`
 
-Python follows the principle _better to ask for forgiveness than permission_, which in practice means using `try/catch` blocks with type checking on the error. In Julia the preference is to avoid the error using an initial check.
+Python follows the principle _better to ask for forgiveness than permission_, which in practice means using `try/except` blocks with type checking on the error. In Julia the preference is to avoid the error using an initial check.
 
 ### Anti-pattern
 
